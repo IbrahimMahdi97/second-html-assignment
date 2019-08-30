@@ -1,0 +1,39 @@
+body {
+    background: #000;
+    color: #fff;
+}
+
+#logo {
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 30px;
+}
+
+.nav-bar {
+    display: inline;
+    float: right;
+    padding-right: 100px;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    width: 800px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#images > img {
+    width: 33%;
+}
+
+.icon {
+    width: 50px;
+    float: right;
+    margin: 10px 10px 10px 0;
+}
